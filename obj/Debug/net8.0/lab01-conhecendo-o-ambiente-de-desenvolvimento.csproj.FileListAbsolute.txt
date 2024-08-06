@@ -1,0 +1,14 @@
+D:\dev\puc\atp\labs\lab01-conhecendo-o-ambiente-de-desenvolvimento\bin\Debug\net8.0\lab01-conhecendo-o-ambiente-de-desenvolvimento.exe
+D:\dev\puc\atp\labs\lab01-conhecendo-o-ambiente-de-desenvolvimento\bin\Debug\net8.0\lab01-conhecendo-o-ambiente-de-desenvolvimento.deps.json
+D:\dev\puc\atp\labs\lab01-conhecendo-o-ambiente-de-desenvolvimento\bin\Debug\net8.0\lab01-conhecendo-o-ambiente-de-desenvolvimento.runtimeconfig.json
+D:\dev\puc\atp\labs\lab01-conhecendo-o-ambiente-de-desenvolvimento\bin\Debug\net8.0\lab01-conhecendo-o-ambiente-de-desenvolvimento.dll
+D:\dev\puc\atp\labs\lab01-conhecendo-o-ambiente-de-desenvolvimento\bin\Debug\net8.0\lab01-conhecendo-o-ambiente-de-desenvolvimento.pdb
+D:\dev\puc\atp\labs\lab01-conhecendo-o-ambiente-de-desenvolvimento\obj\Debug\net8.0\lab01-conhecendo-o-ambiente-de-desenvolvimento.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\puc\atp\labs\lab01-conhecendo-o-ambiente-de-desenvolvimento\obj\Debug\net8.0\lab01-conhecendo-o-ambiente-de-desenvolvimento.AssemblyInfoInputs.cache
+D:\dev\puc\atp\labs\lab01-conhecendo-o-ambiente-de-desenvolvimento\obj\Debug\net8.0\lab01-conhecendo-o-ambiente-de-desenvolvimento.AssemblyInfo.cs
+D:\dev\puc\atp\labs\lab01-conhecendo-o-ambiente-de-desenvolvimento\obj\Debug\net8.0\lab01-conhecendo-o-ambiente-de-desenvolvimento.csproj.CoreCompileInputs.cache
+D:\dev\puc\atp\labs\lab01-conhecendo-o-ambiente-de-desenvolvimento\obj\Debug\net8.0\lab01-conhecendo-o-ambiente-de-desenvolvimento.dll
+D:\dev\puc\atp\labs\lab01-conhecendo-o-ambiente-de-desenvolvimento\obj\Debug\net8.0\refint\lab01-conhecendo-o-ambiente-de-desenvolvimento.dll
+D:\dev\puc\atp\labs\lab01-conhecendo-o-ambiente-de-desenvolvimento\obj\Debug\net8.0\lab01-conhecendo-o-ambiente-de-desenvolvimento.pdb
+D:\dev\puc\atp\labs\lab01-conhecendo-o-ambiente-de-desenvolvimento\obj\Debug\net8.0\lab01-conhecendo-o-ambiente-de-desenvolvimento.genruntimeconfig.cache
+D:\dev\puc\atp\labs\lab01-conhecendo-o-ambiente-de-desenvolvimento\obj\Debug\net8.0\ref\lab01-conhecendo-o-ambiente-de-desenvolvimento.dll
